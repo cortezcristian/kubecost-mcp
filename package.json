@@ -1,6 +1,6 @@
 {
   "name": "kubecost-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Model Context Protocol (MCP) server for Kubecost",
   "main": "dist/index.js",
   "type": "module",
@@ -20,7 +20,7 @@
     "budget-api"
   ],
   "author": "Cristian Cortez <cortez.cristian@gmail.com>",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.10.1",
     "axios": "^1.6.0",

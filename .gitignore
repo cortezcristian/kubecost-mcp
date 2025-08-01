@@ -1,4 +1,5 @@
 node_modules/
+tmp/
 dist/
 .env
 .env.local
@@ -9,4 +10,4 @@ dist/
 .idea/
 *.swp
 *.swo
-*~ 
+*~

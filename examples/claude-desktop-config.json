@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "kubecost-mcp": {
+      "command": "npx",
+      "args": [
+        "kubecost-mcp@latest",
+        "stdio"
+      ],
+      "env": {
+        "KUBECOST_BASE_URL": "http://localhost:9090",
+        "KUBECOST_API_TOKEN": "your-kubecost-api-token"
+      }
+    }
+  }
+} 
